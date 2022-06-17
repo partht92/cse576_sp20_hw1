@@ -1,0 +1,11 @@
+{
+    "C_Cpp.codeAnalysis.clangTidy.checks.disabled": [
+        "google-*"
+    ],
+    "C_Cpp.codeAnalysis.clangTidy.enabled": true,
+    "editor.wordWrap": "wordWrapColumn",
+    "C_Cpp.vcFormat.wrap.preserveBlocks": "oneLiners",
+    "C_Cpp.clang_format_fallbackStyle": "Google",
+    "C_Cpp.clang_format_style": "Google",
+    "editor.fontSize": 13
+}

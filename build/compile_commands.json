@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -Duwimg___EXPORTS  -fdiagnostics-color=always -std=c++11 -pthread -O3 -g -fPIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -fPIC -o CMakeFiles/uwimg++.dir/src/utils.o -c \"/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw1/src/utils.cpp\"",
+  "file": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw1/src/utils.cpp"
+},
+{
+  "directory": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -Duwimg___EXPORTS  -fdiagnostics-color=always -std=c++11 -pthread -O3 -g -fPIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -fPIC -o CMakeFiles/uwimg++.dir/src/load_image.o -c \"/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw1/src/load_image.cpp\"",
+  "file": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw1/src/load_image.cpp"
+},
+{
+  "directory": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -Duwimg___EXPORTS  -fdiagnostics-color=always -std=c++11 -pthread -O3 -g -fPIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -fPIC -o CMakeFiles/uwimg++.dir/src/access_image.o -c \"/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw1/src/access_image.cpp\"",
+  "file": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw1/src/access_image.cpp"
+},
+{
+  "directory": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -Duwimg___EXPORTS  -fdiagnostics-color=always -std=c++11 -pthread -O3 -g -fPIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -fPIC -o CMakeFiles/uwimg++.dir/src/process_image.o -c \"/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw1/src/process_image.cpp\"",
+  "file": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw1/src/process_image.cpp"
+},
+{
+  "directory": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -fdiagnostics-color=always -std=c++11 -pthread -O3 -g -fPIC -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -o CMakeFiles/test0.dir/src/test/test0.o -c \"/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw1/src/test/test0.cpp\"",
+  "file": "/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw1/src/test/test0.cpp"
+}
+]

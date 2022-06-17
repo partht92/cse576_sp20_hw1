@@ -1,0 +1,4 @@
+/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw1/build/CMakeFiles/uwimg++.dir
+/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw1/build/CMakeFiles/test0.dir
+/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw1/build/CMakeFiles/edit_cache.dir
+/Users/parthtripathi/Desktop/Projects/Computer Vision/CS 576/cse576_sp20_hw1/build/CMakeFiles/rebuild_cache.dir
